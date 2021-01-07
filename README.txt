@@ -1,4 +1,4 @@
-First try-out page: https://annkemp.github.io/MDB_1/">https://annkemp.github.io/MDB_1/
+First try-out page: https://annkemp.github.io/MDB_1/index.html
 
 Material Design for Bootstrap
 Version: MDB FREE 4.19.2
